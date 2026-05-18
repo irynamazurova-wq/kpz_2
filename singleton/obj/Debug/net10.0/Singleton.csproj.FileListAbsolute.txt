@@ -1,0 +1,14 @@
+C:\Users\Admin\OneDrive\Навчання\2 семестр\КПЗ\д\Singleton\bin\Debug\net10.0\Singleton.exe
+C:\Users\Admin\OneDrive\Навчання\2 семестр\КПЗ\д\Singleton\bin\Debug\net10.0\Singleton.deps.json
+C:\Users\Admin\OneDrive\Навчання\2 семестр\КПЗ\д\Singleton\bin\Debug\net10.0\Singleton.runtimeconfig.json
+C:\Users\Admin\OneDrive\Навчання\2 семестр\КПЗ\д\Singleton\bin\Debug\net10.0\Singleton.dll
+C:\Users\Admin\OneDrive\Навчання\2 семестр\КПЗ\д\Singleton\bin\Debug\net10.0\Singleton.pdb
+C:\Users\Admin\OneDrive\Навчання\2 семестр\КПЗ\д\Singleton\obj\Debug\net10.0\Singleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Навчання\2 семестр\КПЗ\д\Singleton\obj\Debug\net10.0\Singleton.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Навчання\2 семестр\КПЗ\д\Singleton\obj\Debug\net10.0\Singleton.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Навчання\2 семестр\КПЗ\д\Singleton\obj\Debug\net10.0\Singleton.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Навчання\2 семестр\КПЗ\д\Singleton\obj\Debug\net10.0\Singleton.dll
+C:\Users\Admin\OneDrive\Навчання\2 семестр\КПЗ\д\Singleton\obj\Debug\net10.0\refint\Singleton.dll
+C:\Users\Admin\OneDrive\Навчання\2 семестр\КПЗ\д\Singleton\obj\Debug\net10.0\Singleton.pdb
+C:\Users\Admin\OneDrive\Навчання\2 семестр\КПЗ\д\Singleton\obj\Debug\net10.0\Singleton.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Навчання\2 семестр\КПЗ\д\Singleton\obj\Debug\net10.0\ref\Singleton.dll

@@ -1,0 +1,14 @@
+C:\Users\Admin\OneDrive\Навчання\2 семестр\КПЗ\д\Prototype\bin\Debug\net10.0\Prototype.exe
+C:\Users\Admin\OneDrive\Навчання\2 семестр\КПЗ\д\Prototype\bin\Debug\net10.0\Prototype.deps.json
+C:\Users\Admin\OneDrive\Навчання\2 семестр\КПЗ\д\Prototype\bin\Debug\net10.0\Prototype.runtimeconfig.json
+C:\Users\Admin\OneDrive\Навчання\2 семестр\КПЗ\д\Prototype\bin\Debug\net10.0\Prototype.dll
+C:\Users\Admin\OneDrive\Навчання\2 семестр\КПЗ\д\Prototype\bin\Debug\net10.0\Prototype.pdb
+C:\Users\Admin\OneDrive\Навчання\2 семестр\КПЗ\д\Prototype\obj\Debug\net10.0\Prototype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Навчання\2 семестр\КПЗ\д\Prototype\obj\Debug\net10.0\Prototype.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Навчання\2 семестр\КПЗ\д\Prototype\obj\Debug\net10.0\Prototype.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Навчання\2 семестр\КПЗ\д\Prototype\obj\Debug\net10.0\Prototype.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Навчання\2 семестр\КПЗ\д\Prototype\obj\Debug\net10.0\Prototype.dll
+C:\Users\Admin\OneDrive\Навчання\2 семестр\КПЗ\д\Prototype\obj\Debug\net10.0\refint\Prototype.dll
+C:\Users\Admin\OneDrive\Навчання\2 семестр\КПЗ\д\Prototype\obj\Debug\net10.0\Prototype.pdb
+C:\Users\Admin\OneDrive\Навчання\2 семестр\КПЗ\д\Prototype\obj\Debug\net10.0\Prototype.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Навчання\2 семестр\КПЗ\д\Prototype\obj\Debug\net10.0\ref\Prototype.dll

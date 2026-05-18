@@ -1,0 +1,14 @@
+C:\Users\Admin\OneDrive\Навчання\2 семестр\КПЗ\д\FactoryMethod\bin\Debug\net10.0\FactoryMethod.exe
+C:\Users\Admin\OneDrive\Навчання\2 семестр\КПЗ\д\FactoryMethod\bin\Debug\net10.0\FactoryMethod.deps.json
+C:\Users\Admin\OneDrive\Навчання\2 семестр\КПЗ\д\FactoryMethod\bin\Debug\net10.0\FactoryMethod.runtimeconfig.json
+C:\Users\Admin\OneDrive\Навчання\2 семестр\КПЗ\д\FactoryMethod\bin\Debug\net10.0\FactoryMethod.dll
+C:\Users\Admin\OneDrive\Навчання\2 семестр\КПЗ\д\FactoryMethod\bin\Debug\net10.0\FactoryMethod.pdb
+C:\Users\Admin\OneDrive\Навчання\2 семестр\КПЗ\д\FactoryMethod\obj\Debug\net10.0\FactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Навчання\2 семестр\КПЗ\д\FactoryMethod\obj\Debug\net10.0\FactoryMethod.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Навчання\2 семестр\КПЗ\д\FactoryMethod\obj\Debug\net10.0\FactoryMethod.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Навчання\2 семестр\КПЗ\д\FactoryMethod\obj\Debug\net10.0\FactoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Навчання\2 семестр\КПЗ\д\FactoryMethod\obj\Debug\net10.0\FactoryMethod.dll
+C:\Users\Admin\OneDrive\Навчання\2 семестр\КПЗ\д\FactoryMethod\obj\Debug\net10.0\refint\FactoryMethod.dll
+C:\Users\Admin\OneDrive\Навчання\2 семестр\КПЗ\д\FactoryMethod\obj\Debug\net10.0\FactoryMethod.pdb
+C:\Users\Admin\OneDrive\Навчання\2 семестр\КПЗ\д\FactoryMethod\obj\Debug\net10.0\FactoryMethod.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Навчання\2 семестр\КПЗ\д\FactoryMethod\obj\Debug\net10.0\ref\FactoryMethod.dll
